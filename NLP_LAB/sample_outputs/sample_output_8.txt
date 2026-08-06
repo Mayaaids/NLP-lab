@@ -1,0 +1,21 @@
+Enter number of reviews: Enter review: Enter review: Enter review: 
+Topics:
+
+Topic 1
+mobile
+excellent
+battery
+phone
+life
+
+Topic 2
+support
+customer
+service
+delivery
+slow
+
+t-SNE Visualization
+Review 1 -> (10.5, 20.3)
+Review 2 -> (12.1, 18.7)
+Review 3 -> (30.2, 40.8)

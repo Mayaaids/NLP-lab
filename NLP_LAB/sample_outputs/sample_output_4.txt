@@ -1,0 +1,14 @@
+Enter number of documents: Enter document: Enter document: Enter document: 
+Enter search query: 
+TF-IDF Similarity Scores:
+Document 1 : 0.0
+Document 2 : 0.551
+Document 3 : 0.0
+
+LSA Similarity Scores:
+Document 1 : 1.0
+Document 2 : 1.0
+Document 3 : -0.0
+
+Most Relevant Document:
+Machine learning improves healthcare diagnosis

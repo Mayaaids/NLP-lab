@@ -1,0 +1,21 @@
+[nltk_data] Downloading package punkt to /root/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package punkt_tab to /root/nltk_data...
+[nltk_data]   Package punkt_tab is already up-to-date!
+[nltk_data] Downloading package averaged_perceptron_tagger_eng to
+[nltk_data]     /root/nltk_data...
+[nltk_data]   Package averaged_perceptron_tagger_eng is already up-to-
+[nltk_data]       date!
+Enter legal text: 
+Detected Named Entities:
+John -> ENTITY
+Smith -> ENTITY
+ABC -> ENTITY
+Corporation -> ENTITY
+New -> ENTITY
+York -> ENTITY
+Court -> ENTITY
+
+Enter actual number of entities: 
+Predicted Entities: 7
+NER Accuracy: 87.5 %

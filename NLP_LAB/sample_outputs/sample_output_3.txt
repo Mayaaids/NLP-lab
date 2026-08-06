@@ -1,0 +1,18 @@
+[nltk_data] Downloading package wordnet to /root/nltk_data...
+[nltk_data]   Package wordnet is already up-to-date!
+[nltk_data] Downloading package omw-1.4 to /root/nltk_data...
+[nltk_data]   Package omw-1.4 is already up-to-date!
+Enter number of headlines: Enter headline: Enter headline: Enter headline: Enter headline: 
+Cosine Similarity Matrix:
+[[1. 0. 0. 0.]
+ [0. 1. 0. 0.]
+ [0. 0. 1. 0.]
+ [0. 0. 0. 1.]]
+
+Headline Clusters:
+Stock market gains record profits -> Cluster 0
+Investors celebrate rise in share prices -> Cluster 0
+Football team wins championship -> Cluster 0
+Cricket tournament attracts audience -> Cluster 1
+
+Enter first word: Enter second word: WordNet Similarity: 0.05263157894736842

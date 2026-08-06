@@ -1,0 +1,34 @@
+Enter number of posts: Enter post: Enter post: Enter post: Enter post: Enter number of clusters: 
+Cluster Results:
+
+Post: The smartphone camera is amazing
+Cluster: 0
+
+Post: Battery backup is excellent
+Cluster: 0
+
+Post: Customer support was disappointing
+Cluster: 0
+
+Post: Delivery service was delayed
+Cluster: 1
+
+Important Keywords:
+
+Cluster 0
+disappointing
+smartphone
+smartphone camera
+support
+support disappointing
+
+Cluster 1
+delayed
+service delayed
+service
+delivery
+delivery service
+
+Marketing Insight:
+Similar customer opinions are grouped together.
+Clusters help identify product trends and issues.
